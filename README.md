@@ -1,3 +1,7 @@
+just a draft for my future works, based on Garompa's work.
+
+=======================================================================
+
 == "Sven Co-op Hands MEGAPACK" == for Sven Co-op 5.x -- modified by Garompa
 -- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 --
 =======================================================================
